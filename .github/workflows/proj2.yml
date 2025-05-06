@@ -1,5 +1,5 @@
 name: Issue workflow
-on: Issue
+on: issues
 jobs:
   output_events:
     runs-on: ubuntu-latest
